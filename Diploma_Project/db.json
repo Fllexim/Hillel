@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "Pu-erh",
+      "name": "Shu Pu-erh Classic",
+      "quantity": "8",
+      "price": "14.99",
+      "photo": "/tea.jpeg",
+      "description": "Rich earthy flavor with smooth aftertaste."
+    },
+    {
+      "id": "2",
+      "category": "White Tea",
+      "name": "Bai Mudan",
+      "quantity": 11,
+      "price": 21.99,
+      "photo": "/tea.jpeg",
+      "description": "Light floral aroma and honey sweetness."
+    },
+    {
+      "id": "3",
+      "category": "Oolong",
+      "name": "Milk Oolong",
+      "quantity": 15,
+      "price": 16.49,
+      "photo": "/tea.jpeg",
+      "description": "Creamy aroma and delicate floral taste."
+    },
+    {
+      "id": "4",
+      "category": "Green Tea",
+      "name": "Longjing",
+      "quantity": 22,
+      "price": 14.5,
+      "photo": "/tea.jpeg",
+      "description": "Fresh vegetal taste with sweet finish."
+    },
+    {
+      "id": "5",
+      "category": "White Tea",
+      "name": "Bai Mudan",
+      "quantity": 11,
+      "price": 21.99,
+      "photo": "/tea.jpeg",
+      "description": "Light floral aroma and honey sweetness."
+    },
+    {
+      "id": "6",
+      "category": "Black Tea",
+      "name": "Yunnan Dian Hong",
+      "quantity": 14,
+      "price": 17.99,
+      "photo": "/tea.jpeg",
+      "description": "Malty taste with chocolate notes."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
